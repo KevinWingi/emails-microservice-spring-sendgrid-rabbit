@@ -8,3 +8,6 @@ This emails  microservice is responsible to consume (consumer) the broker email 
 - Rabbit MQ
 - [CloudAMQP](https://cloudamqp.com/) for managing Rabbit MQ servers in the CLOUD
 - SendGrid smtp credentials to send emails
+
+# Docker
+- [Docker Image](https://hub.docker.com/repository/docker/kevinwingi/emails-ms/general)
